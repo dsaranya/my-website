@@ -100,5 +100,8 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
+#merge conflict files
+*.orig
+
 # TernJS port file
 .tern-port
