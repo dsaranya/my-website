@@ -102,7 +102,7 @@ dist
 
 #merge conflict files
 *.orig
-#Ignore Macos temp files
+#Ignore MacOS temp files
 .DS_Store
 # TernJS port file
 .tern-port
